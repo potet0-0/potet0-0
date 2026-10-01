@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **potet0-0/potet0-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
