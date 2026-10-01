@@ -1,5 +1,4 @@
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=potet0-0)
-
+![Visitor count](https://YOUR-INSTANCE/@your-github-potet0-0?theme=moebooru)
 
 
 <img width="880" height="192" alt="github-user-contribution" src="https://github.com/user-attachments/assets/20d89fa5-44db-4753-bdef-c86e2ce3cdca" />
