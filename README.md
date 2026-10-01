@@ -6,7 +6,7 @@
 <svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
 
 <p align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ovx3ktp2dwqw65uabomsjlropi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
-
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ovx3ktp2dwqw65uabomsjlropi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="Spotify now playing" />
+  </a>
 </p>
